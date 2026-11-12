@@ -40,13 +40,13 @@ Follow these steps to run the project locally.
 **1. Clone the repository**
 
 ```bashgit
-git clone https://github.com/YOUR-USERNAME/Personal-Developer-Portfolio.
+git clone https://github.com/rbtechniques/personal-portfolio-website
 ```
 
 **2. Navigate to the project folder**
 
 ```bash
-cd Personal-Developer-Portfolio
+cd personal-portfolio-website
 ```
 
 **3. Open the website**
